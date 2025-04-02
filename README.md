@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Kristyll Avila!
 
 🚀 **Data Analyst | Business Intelligence Analyst**  
-🔍 Passionate about leveraging data for impactful decision-making and business insights. 
+🔍 Passionate about leveraging data for impactful decision-making and business insights.
 🤖 Exploring AI-driven analytics and data engineering.  
 
 ---
@@ -20,4 +20,4 @@ Results-driven data professional with nearly two years of experience as a Busine
 ✅ Business Intelligence & Reporting  
 
 📫 **Let's Connect!**  
-💻 [LinkedIn](#https://www.linkedin.com/in/kristyllavila/) | 🌐 [Portfolio](#) | 📧 [Email](#mailto:kristyllmarie@gmail.com)
+💻 [LinkedIn](https://www.linkedin.com/in/kristyllavila/) | 🌐 [Portfolio](#) | 📧 [Email](mailto:kristyllmarie@gmail.com)
