@@ -3,7 +3,6 @@
 🚀 **Data Analyst | Business Intelligence Analyst**  
 🔍 Passionate about leveraging data for impactful decision-making and business insights.
 
-
 🤖 Exploring AI-driven analytics and data engineering.  
 
 ---
